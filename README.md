@@ -36,6 +36,9 @@ The source is the [CFPB Consumer Complaint Database](https://www.consumerfinance
 
 The **Late Responses** card uses the timeliness flag. The **Untimely response** bar uses the separate `Company response to consumer` field. See the [CFPB field definitions](https://www.consumerfinance.gov/complaint/data-use/).
 
+
+[Download the Power BI report (.pbix)](../../releases/latest)
+
 ## Open or reproduce the report
 
 1. Open the project's `.pbix` file in **Power BI Desktop**.
